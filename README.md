@@ -1,2 +1,1 @@
-# Money-Transfer
-Fund Transfer
+Money Transfer Project
